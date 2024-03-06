@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+mport React, { useState } from 'react';
 import { View, TextInput, Button, FlatList, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
 
 const GoalApp = () => {
